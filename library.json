@@ -1,0 +1,17 @@
+{
+  "name" : "kbide-plugin-temp-and-humidity",
+  "title": "temp-and-humidity",
+  "keywords": "temp-and-humidity, esp32, esp8266, arduino",
+  "description": "temp-and-humidity plugin for KB-IDE",
+  "category":"",
+  "git": "https://github.com/cmmc-kbide/kbide-plugin-temp-and-humidity/",
+  "author": "cmmakerclub",
+  "email": "",
+  "url": "https://github.com/cmmc-kbide/kbide-plugin-temp-and-humidity/",
+  "version": "1.0.0",
+  "board" : "",
+  "platform": ["arduino-esp32"],
+  "license": "",
+  "image" : "/static/display.png",
+  "homepage": "http://www.kbide.org"
+}
